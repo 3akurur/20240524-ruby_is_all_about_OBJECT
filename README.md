@@ -26,9 +26,9 @@ Copyright (C) 2024 3akurur
 
 # About this contents
 
-GitHub Pages: [https://3akurur.github.io/20240422-benchmark/](https://3akurur.github.io/20240524-ruby_is_all_about_OBJECT)
+GitHub Pages: [https://3akurur.github.io/20240524-ruby_is_all_about_OBJECT/](https://3akurur.github.io/20240524-ruby_is_all_about_OBJECT)
 
-Repository: [https://github.com/3akurur/20240422-benchmark - GitHub](https://github.com/3akurur/20240524-ruby_is_all_about_OBJECT)
+Repository: [https://github.com/3akurur/20240524-ruby_is_all_about_OBJECT - GitHub](https://github.com/3akurur/20240524-ruby_is_all_about_OBJECT)
 
 ![height:200](qr_github_pages.png)
 
